@@ -1,4 +1,4 @@
-# Crewmate
+# Crewmate - Inspired by Among Us
 How to Run:
 
 Save the HTML code as index.html.
